@@ -1,0 +1,7 @@
+aerospike_conf = 'conf/nosql.properties'
+kafka_consumer_conf = 'conf/kafkaConsumer.properties'
+kafka_producer_conf = 'conf/kafkaProducer.properties'
+pub_sub_subscriber_conf = 'conf/pubsubSubscriber.properties'
+pub_sub_producer_conf = 'conf/pubsubPublisher.properties'
+app_conf = 'conf/app.properties'
+model_path = 'artifacts/model'
